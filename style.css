@@ -1,0 +1,14 @@
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  border: 1px;
+  color: darkolivegreen;
+}
+img {
+  width: 800px;
+  height: 400px;
+}
+span {
+  font-family: fantasy;
+}
